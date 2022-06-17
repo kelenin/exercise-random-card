@@ -1,3 +1,11 @@
 body {
     background: green;
 }
+
+.cardheart {
+    width: 200px;
+    height: 500px;
+    margin: auto;
+    display: inline-flex;
+    background: white;
+}
