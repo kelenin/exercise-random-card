@@ -17,9 +17,11 @@ body {
     position: absolute;
     top: 20px;
     left: 20px;
+    font-size: 80px;
 }
 .card-bottom {
     position: absolute;
     bottom: 20px;
     right: 20px;
+    font-size: 80px;
 }
